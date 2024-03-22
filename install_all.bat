@@ -31,4 +31,4 @@ start /wait vcredist2015_x64.exe /passive /norestart
 
 echo.
 echo Se Instalo Correctamente 
-pause
+exit
